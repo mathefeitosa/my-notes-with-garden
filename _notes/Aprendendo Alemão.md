@@ -14,8 +14,8 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-| Männlich (der) | Weiblich (die) | Sächlich (das)  
-| -------------- | -------------- | -------------- |
+ Männlich (der) | Weiblich (die) | Sächlich (das)  
+ --- | --- | ---
 | -or            | -ung           | -chen          |
 | -ling          | -ie            | -lein          |
 | -ig            | -ei            | -ment          |
