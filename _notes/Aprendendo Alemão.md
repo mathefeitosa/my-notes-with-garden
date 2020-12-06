@@ -2,6 +2,7 @@
 title: Aprendendo Alemão
 tags: [idiomas, alemão]
 toc: true
+season: summer
 ---
 # Artigos Aprendidos
 ## Dicas
