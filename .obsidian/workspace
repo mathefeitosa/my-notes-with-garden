@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "f606471259537fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "271d35f5a112ad84",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30e8ee2accd9bb51",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c2e9649a0cc12df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "354f4003355a522b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7858a8deeabc5080",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62005c692665597e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f2a3dbc89f15125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e13f5a03ef7f292",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "notes.md",
+    "about.md",
+    "dates.md",
+    "hello.md",
+    "_notes/Untitled.md",
+    "README.md",
+    "tags.md",
+    "index.md",
+    "_notes/How to use the special features.md",
+    "_notes/How-to-setup-this-site.md"
+  ]
+}
