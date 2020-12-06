@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a2c1cebe728b2aa4",
+        "id": "40f66f8154b9e75b",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Xenófanes de Colofon.md",
+            "file": "_notes/first-note.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Xenófanes de Colofon.md",
+                "file": "_notes/first-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/Xenófanes de Colofon.md",
-    "_notes/William Wordsworth.md",
-    "_notes/Werner Gitt.md",
-    "_notes/Vootrekkers.md",
-    "_notes/Tutoriais.md",
-    "_notes/Truques - Ubuntu.md",
-    "_notes/Tipos de Dor.md",
-    "_notes/Theodore Dalrympe.md",
-    "_notes/The Prelude.md",
-    "_notes/Test.md"
+    "_notes/Untitled.md",
+    "Untitled.md",
+    "hello.md",
+    "Untitled 1.md",
+    "_notes/Aristóteles.md",
+    "_notes/Aprendendo Python.md",
+    "_notes/Aprendendo Latim.md",
+    "_notes/Aprendendo Esperanto.md",
+    "_notes/Aprendendo Alemão.md",
+    "_notes/Apendicite.md"
   ]
 }

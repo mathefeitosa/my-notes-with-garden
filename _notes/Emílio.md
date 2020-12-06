@@ -1,4 +1,0 @@
----
-title: Emílio
-tags: 
----

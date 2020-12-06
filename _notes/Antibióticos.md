@@ -1,5 +1,0 @@
----
-title: Antibióticos
-tags: 
----
-# Antibióticos
