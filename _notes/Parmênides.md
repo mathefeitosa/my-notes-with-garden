@@ -1,3 +1,7 @@
+---
+title: Parmênides
+tags: 
+---
 # Parmênides
 tags: #pessoas #filosofia 
 

@@ -1,3 +1,7 @@
+---
+title: Tipos de Dor
+tags: 
+---
 # Tipos de Dor
 tags: #dor #semiologia #medicina 
 

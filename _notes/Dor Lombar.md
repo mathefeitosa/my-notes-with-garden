@@ -1,3 +1,7 @@
+---
+title: Dor Lombar
+tags: 
+---
 # Dor Lombar
 tags: #medicina #neurologia #doença
 # Condições pré-existentes

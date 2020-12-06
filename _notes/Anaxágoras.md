@@ -1,3 +1,7 @@
+---
+title: Anaxágoras
+tags: 
+---
 # Anaxágoras
 tags: #pessoas #filosofia 
 

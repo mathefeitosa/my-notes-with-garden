@@ -1,3 +1,7 @@
+---
+title: Beleza americana
+tags: 
+---
 # Beleza americana
 # Wikipédia
 <iframe width="800" height="600" src="https://pt.wikipedia.org/wiki/Special:Search/Beleza americana">

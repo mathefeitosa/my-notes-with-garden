@@ -1,3 +1,7 @@
+---
+title: Anaxímenes
+tags: 
+---
 # Anaxímenes
 tags: #pessoas #filosofia 
 

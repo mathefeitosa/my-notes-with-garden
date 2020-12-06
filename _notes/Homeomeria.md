@@ -1,3 +1,7 @@
+---
+title: Homeomeria
+tags: 
+---
 # Homeomeria
 tags: #significados 
 

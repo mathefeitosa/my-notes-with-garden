@@ -1,3 +1,7 @@
+---
+title: Actinomicose
+tags: 
+---
 # Actinomicose
 tags: #doença #infectologia #bacteria 
 # Características

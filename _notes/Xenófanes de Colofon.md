@@ -1,3 +1,7 @@
+---
+title: Xenófanes de Colofon
+tags: 
+---
 # Xenófanes de Colofon
 tags: #pessoas #filosofia 
 

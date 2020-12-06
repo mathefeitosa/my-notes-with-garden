@@ -1,3 +1,7 @@
+---
+title: Pitágoras
+tags: 
+---
 # Pitágoras
 tags: #pessoas #filosofia 
 # Sobre

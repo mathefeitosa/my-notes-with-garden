@@ -1,3 +1,7 @@
+---
+title: Lidando com a Procrastinação
+tags: 
+---
 # Lidando com a Procrastinação
 # Técnicas
 ## Regra dos 2 minutos

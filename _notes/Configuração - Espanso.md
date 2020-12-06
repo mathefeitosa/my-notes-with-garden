@@ -1,3 +1,7 @@
+---
+title: Configuração - Espanso
+tags: 
+---
 # Espanso
 tags: #programa #digitação
 Site: https://espanso.org/

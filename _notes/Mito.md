@@ -1,3 +1,7 @@
+---
+title: Mito
+tags: 
+---
 # Mito
 tags: #significados 
 - A palavra "mito" vem do grego *mythos* (μύϴος), que deriva do verbo *mytheyo* e do verbo *mytheo* - o primeiro significa narrar, contar, e o segundo, conversar, designar. Na sua base etimológica e cultural, a palavra "mito" indica uma narrativa na qual o ouvinte acredita (dando fé à fonte do mito, o narrador) e à qual confere, assim, o caráter de verdade.

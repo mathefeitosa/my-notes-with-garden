@@ -1,4 +1,8 @@
 ---
+title: how-markdown-is-rendered
+tags: 
+---
+---
 title: Test page to see how the raw markdown is rendered
 tags: markdown 
 season: summer

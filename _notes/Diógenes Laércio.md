@@ -1,3 +1,7 @@
+---
+title: Diógenes Laércio
+tags: 
+---
 # Diógenes Laércio
 tags: #pessoas #filosofia 
 

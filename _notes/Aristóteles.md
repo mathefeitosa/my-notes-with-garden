@@ -1,3 +1,7 @@
+---
+title: Aristóteles
+tags: 
+---
 # Aristóteles
 tags: #pessoas #filosofia 
 

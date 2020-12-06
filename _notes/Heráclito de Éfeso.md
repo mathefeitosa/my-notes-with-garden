@@ -1,3 +1,7 @@
+---
+title: Heráclito de Éfeso
+tags: 
+---
 # Heráclito de Éfeso
 tags: #pessoas
 # Sobre

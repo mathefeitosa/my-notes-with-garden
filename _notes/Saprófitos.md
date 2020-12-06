@@ -1,3 +1,7 @@
+---
+title: Saprófitos
+tags: 
+---
 # Saprófitos
 - **Adjetivo**
 	- Diz-se do vegetal que não possui clorofila e obtém seus nutrientes a partir da matéria orgânica em decomposição.

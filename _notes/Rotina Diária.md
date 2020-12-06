@@ -1,3 +1,7 @@
+---
+title: Rotina Diária
+tags: 
+---
 # Rotina Diária
 tags: #rotina #planejamento #organização 
 # Manhã

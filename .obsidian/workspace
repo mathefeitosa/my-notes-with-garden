@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "271d35f5a112ad84",
+        "id": "a2c1cebe728b2aa4",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes.md",
+            "file": "_notes/Xenófanes de Colofon.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes.md",
+                "file": "_notes/Xenófanes de Colofon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "notes.md",
-    "about.md",
-    "dates.md",
-    "hello.md",
-    "_notes/Untitled.md",
-    "README.md",
-    "tags.md",
-    "index.md",
-    "_notes/How to use the special features.md",
-    "_notes/How-to-setup-this-site.md"
+    "_notes/Xenófanes de Colofon.md",
+    "_notes/William Wordsworth.md",
+    "_notes/Werner Gitt.md",
+    "_notes/Vootrekkers.md",
+    "_notes/Tutoriais.md",
+    "_notes/Truques - Ubuntu.md",
+    "_notes/Tipos de Dor.md",
+    "_notes/Theodore Dalrympe.md",
+    "_notes/The Prelude.md",
+    "_notes/Test.md"
   ]
 }

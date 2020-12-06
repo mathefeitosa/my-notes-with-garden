@@ -1,3 +1,7 @@
+---
+title: História Essencial da Filosofia
+tags: 
+---
 # História Essencial da Filosofia
 tags: #livro
 # Conteúdo

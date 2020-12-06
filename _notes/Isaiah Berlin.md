@@ -1,3 +1,7 @@
+---
+title: Isaiah Berlin
+tags: 
+---
 # Isaiah Berlin
 tags: #pessoas
 

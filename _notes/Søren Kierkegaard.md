@@ -1,3 +1,7 @@
+---
+title: Søren Kierkegaard
+tags: 
+---
 # Søren Kierkegaard
 tags: #filosofia #pessoas 
 

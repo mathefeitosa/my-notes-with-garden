@@ -1,3 +1,7 @@
+---
+title: Aprendendo Esperanto
+tags: 
+---
 # Aprendendo Esperanto
 # Notas Duolingo
 - Cada som é representado por somente uma letra e cada letra tem um som único.

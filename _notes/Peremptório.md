@@ -1,3 +1,7 @@
+---
+title: Peremptório
+tags: 
+---
 # Peremptório
 tags: #significados
 

@@ -1,3 +1,7 @@
+---
+title: Medicina
+tags: 
+---
 # Medicina
 # Ciclo Básico
 ## [[Semiologia]]

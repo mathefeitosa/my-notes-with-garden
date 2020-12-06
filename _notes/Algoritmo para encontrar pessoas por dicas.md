@@ -1,3 +1,7 @@
+---
+title: Algoritmo para encontrar pessoas por dicas
+tags: 
+---
 # Algoritmo para encontrar pessoas por dicas
 tags: #brincadeira #algoritmo
 # Algoritmo

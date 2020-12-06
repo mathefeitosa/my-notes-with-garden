@@ -1,3 +1,7 @@
+---
+title: Tales de Mileto
+tags: 
+---
 # Tales de Mileto
 Tags: #pessoas #filosofia 
 

@@ -1,3 +1,7 @@
+---
+title: Obsidian Justification
+tags: 
+---
 # Obsidian Tricks
 tags: #obsidian
 

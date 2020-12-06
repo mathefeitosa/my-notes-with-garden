@@ -1,3 +1,7 @@
+---
+title: Aprendendo Python
+tags: 
+---
 # Aprendendo Python
 
 # Anotações

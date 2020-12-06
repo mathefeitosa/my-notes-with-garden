@@ -1,3 +1,7 @@
+---
+title: Anaximandro
+tags: 
+---
 # Anaximandro
 tags: #pessoas #filosofia 
 # Sobre

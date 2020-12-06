@@ -1,3 +1,7 @@
+---
+title: Some Thoughts Concerning Education
+tags: 
+---
 # Some Thoughts Concerning Education
 tags: #livro 
 autor: [[John Locke]]

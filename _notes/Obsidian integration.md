@@ -1,5 +1,9 @@
 ---
 title: Obsidian integration
+tags: 
+---
+---
+title: Obsidian integration
 season: summer
 tags: CMS
 ---

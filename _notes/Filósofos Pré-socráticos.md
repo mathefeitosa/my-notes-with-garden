@@ -1,3 +1,7 @@
+---
+title: Filósofos Pré-socráticos
+tags: 
+---
 # Filósofos Pré-socráticos
 tags: #filosofia 
 - [[Tales de Mileto]]

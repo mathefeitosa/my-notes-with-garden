@@ -1,3 +1,7 @@
+---
+title: Richard Dawkins
+tags: 
+---
 # Richard Dawkins
 tags: #pessoas
 ![[arquivos/Pasted image 2.png]]

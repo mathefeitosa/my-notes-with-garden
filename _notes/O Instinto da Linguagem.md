@@ -1,3 +1,7 @@
+---
+title: O Instinto da Linguagem
+tags: 
+---
 # O Instinto da Linguagem
 tags: #livro 
 autor: [[Steven Pinker]]

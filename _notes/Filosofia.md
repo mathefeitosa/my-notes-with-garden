@@ -1,3 +1,7 @@
+---
+title: Filosofia
+tags: 
+---
 # Filosofia
 tags: #significados 
 # Significado

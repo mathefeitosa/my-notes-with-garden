@@ -1,3 +1,7 @@
+---
+title: George Bernanos
+tags: 
+---
 # George Bernanos
 tags: #pessoas
 # Sobre

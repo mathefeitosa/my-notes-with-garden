@@ -1,3 +1,7 @@
+---
+title: Templates
+tags: 
+---
 # Templates
 - [[.templates/Template - Ano]]
 - [[.templates/Template - Livro]]

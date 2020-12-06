@@ -1,3 +1,7 @@
+---
+title: Pecados, Uma Anatomia da Alma
+tags: 
+---
 # Pecados, Uma Anatomia da Alma
 Tags: #livro #filosofia #bíblia #pecado #curso
 Referência: [Pondé - Hotmart](https://pecadosumaanatomiadaalma.club.hotmart.com/)

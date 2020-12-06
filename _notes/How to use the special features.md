@@ -1,4 +1,8 @@
 ---
+title: How to use the special features
+tags: 
+---
+---
 title: How to use notenote.link features on your website
 season: summer
 tags: Theme

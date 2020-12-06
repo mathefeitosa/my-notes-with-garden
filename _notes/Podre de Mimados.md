@@ -1,3 +1,7 @@
+---
+title: Podre de Mimados
+tags: 
+---
 # Podre de Mimados
 tags: #livro #leitura_incompleta #educação
 # Conteúdo

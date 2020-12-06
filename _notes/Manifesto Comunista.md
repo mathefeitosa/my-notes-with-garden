@@ -1,3 +1,7 @@
+---
+title: Manifesto Comunista
+tags: 
+---
 # Manifesto Comunista
 Tags: #livro #comunismo 
 Autores: [[Karl Marx]], [[Friedrich Engels]]

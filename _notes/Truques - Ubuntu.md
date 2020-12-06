@@ -1,3 +1,7 @@
+---
+title: Truques - Ubuntu
+tags: 
+---
 # Fazer o audio trocar automaticamente para os fones
 - Executar esse comando que carrega o módulo do pulse:
 ```bash
