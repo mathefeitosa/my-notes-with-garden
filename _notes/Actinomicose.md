@@ -9,7 +9,7 @@ season: summer
 # Características
 - Infecção granulomatosa crônica causada pela bactéria gram-positiva _Actinomyces.
 - O _A. israelli_ é o mais frequentemente associado à doença humana.
-- São [[saprófitos\|saprófitos]] da mucosa bucal do homem e de outros animais.
+- São [saprófitos](saprofitos) da mucosa bucal do homem e de outros animais.
 - Tem baixa virulência
 - Meios com baixos potenciais de oxirredução favorecem o crescimento do _Actinomyces_.
 - Acomete mais o sexo masculino.

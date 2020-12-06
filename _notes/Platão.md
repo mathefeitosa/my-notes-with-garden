@@ -1,0 +1,4 @@
+---
+title: Platão
+tags: pessoa
+---
