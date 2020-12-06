@@ -9,13 +9,8 @@ season: summer
 - Os artigos em alemão são definidos para a palavra e não para a pessoa ou objeto que a palavra representa, o que dificulta o uso da lógica para deduzir o gênero de uma palavra. Porém, existem alguns padrões.
 - É possível identificar, com limitações pois há exeções, o gênero de acordo com a terminação da palavra.
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
- Männlich (der) | Weiblich (die) | Sächlich (das)  
- --- | --- | ---
+| Männlich (der) | Weiblich (die) | Sächlich (das)  
+| :--------------: | :--------------: | :--------------: |
 | -or            | -ung           | -chen          |
 | -ling          | -ie            | -lein          |
 | -ig            | -ei            | -ment          |
@@ -25,6 +20,7 @@ Markdown | Less | Pretty
 |                | -tät           |                |
 |                | -ik            |                |
 |                | -tion          |                |
+
 ## Artigos
 - Der Käse
 - Der Ei

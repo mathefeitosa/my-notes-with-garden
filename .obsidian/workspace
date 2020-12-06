@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Aprendendo Alemão.md",
+            "file": "_notes/Actinomicose.md",
             "mode": "source"
           }
         }
@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "a72baa15b04fb96c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Aprendendo Alemão.md",
+                "file": "_notes/Actinomicose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,8 +85,27 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "9ee0c82b447dc3c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "79c8de37075e4e7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_notes/Actinomicose.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,15 +113,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/Untitled.md",
+    "_notes/Actinomicose.md",
+    "templates/palavras.md",
+    "_notes/saprófitos.md",
+    "templates/Untitled.md",
+    "_notes/Aprendendo Alemão.md",
     "_notes/first-note.md",
+    "templates/generate-yaml.md",
+    "_notes/Untitled.md",
     "Untitled 1.md",
-    "tags.md",
-    "Untitled.md",
-    "notes.md",
-    "index.md",
-    "hello.md",
-    "_notes/Aristóteles.md",
-    "_notes/Aprendendo Python.md"
+    "tags.md"
   ]
 }
