@@ -8,3 +8,5 @@ season: automn
 Autor: [Conan Doyle](Conan%20Doyle.md)
 # Conteúdo
 # Anotações
+Contos lidos:
+- [ ] A Aventura dos Seis Napoleões
