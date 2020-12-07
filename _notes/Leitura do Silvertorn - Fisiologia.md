@@ -50,12 +50,14 @@ Neurônio sensorial | Neurônio aferente, eferente
 			├── divisão somática
 			│	└── músculos esqueléticos
 			└── divisão autônoma
-				├── músculos lisos
-				└── neurônios eferentes
+				├── sistema simpático
+				├── sistema parasimpático
+				└── sistema nervoso entérico
         
 ```
 
 
 - O SNP recebe as informações dos sensores distribuidos pelo corpo.
 -  O SNC integra as informações provenientes do SNP e determina as respostas.
+-  O sistema simpático e parassimpático podem ser distinguidos anatomicamente e através substâncias utilizadas para transmissão da informação até a célula-alvo.
 -  
