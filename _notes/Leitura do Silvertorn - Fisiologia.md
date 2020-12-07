@@ -69,9 +69,7 @@ Neurônio sensorial | Neurônio aferente, eferente
 	- Dentritos: recebem o sinal de entrada
 	- Axônios: conduzem informações de saída
 
-
 ![](../assets/Pasted%20image%2020201207163534.png)
-
 
 - Classificações
 	- Estrutural
@@ -90,8 +88,16 @@ Neurônio sensorial | Neurônio aferente, eferente
 			- do nariz
 				- bipolares pequenos
 		- interneurônios
+			- ramificação complexa
 		- eferentes (motor somático / autonômico)
 
+
 ![](../assets/Pasted%20image%2020201207163556.png)
+
+- O agrupamento de axônios é chamado de **nervo**.
+	- Tipos:
+		- Sensoriais
+			- Apenas sinais ef
+		- Mistos
 
 #### Células da glia (neuroglia)
