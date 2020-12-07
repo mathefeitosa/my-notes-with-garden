@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "973e28a75801bd0b",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/Leitura de Sherlock Holmes.md",
-            "mode": "source"
+        "id": "df6d429c85e08868",
+        "type": "split",
+        "children": [
+          {
+            "id": "973e28a75801bd0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Leitura de Sherlock Holmes.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "a10a1c4bbbe8ca72",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/07-12-2020.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -78,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Leitura de Sherlock Holmes.md",
+                "file": "_notes/07-12-2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Leitura de Sherlock Holmes.md"
+                "file": "_notes/07-12-2020.md"
               }
             }
           }
@@ -113,14 +131,14 @@
     "width": 185
   },
   "lastOpenFiles": [
+    "_notes/07-12-2020.md",
+    "templates/template-diario.md",
     "_notes/Leitura de Sherlock Holmes.md",
     "_notes/Configuração - Espanso.md",
-    "_notes/07-12-2020.md",
     "templates/template-pessoa.md",
     "templates/template-palavra.md",
     "templates/template-padrão.md",
     "templates/template-livro.md",
-    "templates/template-diario.md",
     "templates/template-ano.md",
     "_notes/2020.md"
   ]
