@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/template-ano.md",
+            "file": "_notes/07-12-2020.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/template-ano.md",
+                "file": "_notes/07-12-2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/template-ano.md"
+                "file": "_notes/07-12-2020.md"
               }
             }
           }
@@ -112,15 +112,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_notes/07-12-2020.md",
+    "_notes/Configuração - Espanso.md",
+    "templates/template-pessoa.md",
+    "templates/template-palavra.md",
+    "templates/template-padrão.md",
+    "templates/template-livro.md",
+    "templates/template-diario.md",
     "templates/template-ano.md",
     "_notes/2020.md",
-    "_notes/2011.md",
-    "_notes/1848.md",
-    "_notes/1250 a.C..md",
-    "_notes/600 a.C.md",
-    "_notes/550 a.C..md",
-    "_notes/540 a.C..md",
-    "_notes/07-12-2020.md",
-    "_notes/Livros Para Ler.md"
+    "_notes/2011.md"
   ]
 }
