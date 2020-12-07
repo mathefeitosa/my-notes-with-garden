@@ -1,0 +1,1 @@
+{"commitMessage":"Automatic Backup: {{date}}","commitDateFormat":"DD-MM-YYYY HH:mm:ss","autoSaveInterval":5,"autoPullOnBoot":true,"disablePopups":false,"currentBranch":"master","remote":"origin"}

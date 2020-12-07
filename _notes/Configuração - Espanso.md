@@ -1,6 +1,6 @@
 ---
 title: Configuração - Espanso
-tags: [expansor de texto]
+tags: [expansor-de-texto]
 toc: true
 season: automn
 ---
