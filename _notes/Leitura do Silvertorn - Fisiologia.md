@@ -32,4 +32,14 @@ Transporte axonal | Fluxo axoplasmático
 Terminal axonal | Botão sináptico, terminal pré-sináptico
 Axoplasma | Citoplasma do axônio
 Corpo celular | Soma celular, corpo do neurônio
-Mem
+Membrana celular do axônio | Axolema
+Células da glia | neuroglia, glia
+Interneurônio | Neurônio de associação
+Retículo endoplasmático rugoso | Substância de Nissl, corpod e Nissl
+Neurônio sensorial | Neurônio aferente, eferente
+
+## Organização do Sistema Nervoso
+```
+
+  
+```

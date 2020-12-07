@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Leitura do Silvertorn - Fisiologia.md",
+            "file": "_notes/07-12-2020.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Leitura do Silvertorn - Fisiologia.md",
+                "file": "_notes/07-12-2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Leitura do Silvertorn - Fisiologia.md"
+                "file": "_notes/07-12-2020.md"
               }
             }
           }
@@ -114,8 +114,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/Leitura do Silvertorn - Fisiologia.md",
     "_notes/07-12-2020.md",
+    "_notes/Leitura do Silvertorn - Fisiologia.md",
     "_notes/Leitura de Sherlock Holmes.md",
     "_notes/Configuração - Espanso.md",
     "templates/template-diario.md",
