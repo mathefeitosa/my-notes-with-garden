@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/07-12-2020.md",
-            "mode": "preview"
+            "file": "_notes/Livros Para Ler.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#livro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/07-12-2020.md",
+                "file": "_notes/Livros Para Ler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,19 +101,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/07-12-2020.md"
+                "file": "_notes/Livros Para Ler.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "_notes/Livros Para Ler.md",
     "_notes/07-12-2020.md",
     "_notes/Aprendendo Alemão.md",
     "templates/template-diario.md",
@@ -121,7 +122,6 @@
     "_notes/Xenófanes de Colofon.md",
     "_notes/William Wordsworth.md",
     "_notes/Werner Gitt.md",
-    "_notes/Tutoriais.md",
-    "_notes/Truques - Ubuntu.md"
+    "_notes/Tutoriais.md"
   ]
 }
