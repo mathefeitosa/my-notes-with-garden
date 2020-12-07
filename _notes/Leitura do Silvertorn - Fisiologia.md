@@ -5,7 +5,7 @@ toc: true
 season: automn
 ---
 # Sobre
-Autor: 
+Autor: Dee Unglaub Silverthorn 
 # Conteúdo
 # Anotações
 # Capitulo 8
@@ -103,6 +103,7 @@ Neurônio sensorial | Neurônio aferente, eferente
 	- Geralmente são grandes e podem ser vistos a olho nu, recebendo nomes anatômicos.
 - Espinhos dendríticos
 	- Podem alterar o seu tamanho e formato em função de resposta.
+		- Alterações morfológicas dos dendritos estão associadas ao aprendizado, memória e a várias patologias.
 	- No SNC, **os dendritos podem funcionar como compartimentos independentes**, podendo enviar sinais de ida e volta.
 		- Podem até **produzir suas próprias proteínas**, pois contém polirribossomos.
 - 
