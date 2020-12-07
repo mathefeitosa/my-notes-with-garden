@@ -64,5 +64,21 @@ Neurônio sensorial | Neurônio aferente, eferente
 -  O SNC pode não criar saidas mensuráveis através de funções superiores complexas, como os pensamentos e os sonhos, que ocorrem totalmente dentro do SNC.
 
 ## Células do sistema nervoso
-- Neurônios
-- Células da glia (neuroglia)
+####  Neurônios
+- Processos neuronais:
+	- Dentritos: recebem o sinal de entrada
+	- Axônios: conduzem informações de saída
+- Classificações
+	- Estrutural
+		- Pelo número de processos
+			- multipolar
+			- pseudounipolares
+			- bipolares
+			- anaxônicos
+	- Funcional
+		- sensoriais / aferentes
+		- interneurônios
+		- eferentes (motor somático / autonômico)
+- 
+
+#### Células da glia (neuroglia)
