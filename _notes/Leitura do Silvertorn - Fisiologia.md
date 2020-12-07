@@ -17,4 +17,19 @@ Autor:
 - Os sinais elétricos desencadeiam a liberação de substâncias químicas chamadas de neurotransmissores, no líquido extracelular.
 	- Esta e a forma de comunicação com as células vizinhas.
 	- Também existem *junções comunicantes* onde neurônios são ligados diretamente uns aos outros passando o sinal elétrico diretamente.
-	- As células beta-pancreáticas também utilizam sinais elétricos para fazer exocitose das vesículas armazenadores de insulina.
+	- As células beta-pancreáticas também utilizam sinais elétricos para fazer a exocitose das vesículas armazenadores de insulina.
+- Redes neurais complexas são exclusivas do sistema nervoso animal.
+- Propriedades emergentes:
+	- Consciência, Inteligência, Emoções
+- Sinonimso na neurociência (existem termos que confundem):
+
+Termo utilizado | Sinônimo(s)
+--- | ---
+Potencial de ação | Impulso nervoso, potencial em ponta, sinal conduzido, PA
+Sistema nervoso autonômico | Sistema nervoso visceral
+Axônio | Fibra nervosa
+Transporte axonal | Fluxo axoplasmático
+Terminal axonal | Botão sináptico, terminal pré-sináptico
+Axoplasma | Citoplasma do axônio
+Corpo celular | Soma celular, corpo do neurônio
+Mem
