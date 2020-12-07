@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3c5609e0e6bd9978",
+        "id": "973e28a75801bd0b",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Aprendendo Alemão.md",
+            "file": "_notes/07-12-2020.md",
             "mode": "preview"
           }
         }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 176.5
   },
   "right": {
     "id": "62005c692665597e",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Aprendendo Alemão.md",
+                "file": "_notes/07-12-2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Aprendendo Alemão.md"
+                "file": "_notes/07-12-2020.md"
               }
             }
           }
@@ -114,8 +113,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/Aprendendo Alemão.md",
     "_notes/07-12-2020.md",
+    "_notes/Aprendendo Alemão.md",
     "templates/template-diario.md",
     "templates/template-padrão.md",
     "templates/Untitled.md",
