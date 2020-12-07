@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Leitura de Sherlock Holmes.md",
-            "mode": "source"
+            "file": "_notes/07-12-2020.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Leitura de Sherlock Holmes.md",
+                "file": "_notes/07-12-2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Leitura de Sherlock Holmes.md"
+                "file": "_notes/07-12-2020.md"
               }
             }
           }
@@ -112,9 +112,9 @@
     "width": 185
   },
   "lastOpenFiles": [
+    "_notes/07-12-2020.md",
     "_notes/Leitura de Sherlock Holmes.md",
     "_notes/Configuração - Espanso.md",
-    "_notes/07-12-2020.md",
     "templates/template-diario.md",
     "templates/template-pessoa.md",
     "templates/template-palavra.md",
