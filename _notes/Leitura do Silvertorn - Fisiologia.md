@@ -49,15 +49,20 @@ Neurônio sensorial | Neurônio aferente, eferente
         └── neurônios eferentes
 			├── divisão somática
 			│	└── músculos esqueléticos
-			└── divisão autônoma
-				├── sistema simpático
-				├── sistema parasimpático
-				└── sistema nervoso entérico
-        
+			├── divisão autônoma
+			│	├── sistema simpático
+			│	└── sistema parasimpático
+        	└── sistema nervoso entérico
 ```
 
 
 - O SNP recebe as informações dos sensores distribuidos pelo corpo.
 -  O SNC integra as informações provenientes do SNP e determina as respostas.
 -  O sistema simpático e parassimpático podem ser distinguidos anatomicamente e através substâncias utilizadas para transmissão da informação até a célula-alvo.
--  
+-  O sistema nervoso entérico é capaz de funcionar de forma autônoma, possuindo seu próprio centro integrador, porém recebe controles do sistema autônomo.
+-  O SNC pode iniciar atividades sem sinais de entrada.
+-  O SNC pode não criar saidas mensuráveis através de funções superiores complexas, como os pensamentos e os sonhos, que ocorrem totalmente dentro do SNC.
+
+## Células do sistema nervoso
+- Neurônios
+- Células da glia (neuroglia)
