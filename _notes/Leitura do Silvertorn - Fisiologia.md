@@ -95,9 +95,16 @@ Neurônio sensorial | Neurônio aferente, eferente
 ![](../assets/Pasted%20image%2020201207163556.png)
 
 - O agrupamento de axônios é chamado de **nervo**.
-	- Tipos:
+	- Tipos
 		- Sensoriais
-			- Apenas sinais ef
+			- Apenas sinais aferentes
 		- Mistos
+			- Sinal em ambas as direções
+	- Geralmente são grandes e podem ser vistos a olho nu, recebendo nomes anatômicos.
+- Espinhos dendríticos
+	- Podem alterar o seu tamanho e formato em função de resposta.
+	- No SNC, **os dendritos podem funcionar como compartimentos independentes**, podendo enviar sinais de ida e volta.
+		- Podem até **produzir suas próprias proteínas**, pois contém polirribossomos.
+- 
 
 #### Células da glia (neuroglia)
