@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "_notes/Leitura do Silvertorn - Fisiologia.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198,
-    "collapsed": true
+    "width": 198
   },
   "right": {
     "id": "62005c692665597e",

@@ -68,7 +68,11 @@ Neurônio sensorial | Neurônio aferente, eferente
 - Processos neuronais:
 	- Dentritos: recebem o sinal de entrada
 	- Axônios: conduzem informações de saída
-![](../_site/assets/Pasted%20image%2020201207163144.png)
+
+
+![](../assets/Pasted%20image%2020201207163534.png)
+
+
 - Classificações
 	- Estrutural
 		- Pelo número de processos
@@ -88,9 +92,6 @@ Neurônio sensorial | Neurônio aferente, eferente
 		- interneurônios
 		- eferentes (motor somático / autonômico)
 
-- Imagens
-![](../_site/assets/Pasted%20image%2020201207163108.png)
-![](../_site/assets/Pasted%20image%2020201207163029.png)
-![](../_site/assets/Pasted%20image%2020201207163054.png)
+![](../assets/Pasted%20image%2020201207163556.png)
 
 #### Células da glia (neuroglia)
