@@ -1,18 +1,19 @@
 ---
 title: Configuração - Espanso
-tags: [expansor-de-texto]
+tags: [programa, digitação, dica, expansor-de-texto]
 toc: true
 season: automn
 ---
 # Espanso
-tags: #programa #digitação
-Site: https://espanso.org/
+Site: [Espanso](https://espanso.org/)
 
 # Sobre
 O espanso é um expansor de texto onde você pode colocar atalhos de teclado que inserem trechos de texto pré-definidos no cursor de texto atual.
 
 - Alterar as configurações no arquivo
 	- Windows: `C:\Users\{usuário}\AppData\Roaming\espanso\default.yml`
+
+
 ```yml
 # Templates for taking notes - Obsidian
   # Template - Person
