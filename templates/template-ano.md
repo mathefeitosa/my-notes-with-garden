@@ -1,6 +1,6 @@
 ---
 title: {{title}}
-tags: [ano, {{title}}]
+tags: [ano]
 season: automn
 ---
 # Eventos
