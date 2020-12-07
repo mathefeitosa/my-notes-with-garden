@@ -40,6 +40,22 @@ Neurônio sensorial | Neurônio aferente, eferente
 
 ## Organização do Sistema Nervoso
 ```
-
-  
+└── Sistema Nervoso (SN)
+    ├── central (SNC)
+    │   ├── encéfalo
+    │   └── medula espinhal
+    └── periférico (SNP)
+        ├── neurônios aferentes
+        └── neurônios eferentes
+			├── divisão somática
+			│	└── músculos esqueléticos
+			└── divisão autônoma
+				├── músculos lisos
+				└── neurônios eferentes
+        
 ```
+
+
+- O SNP recebe as informações dos sensores distribuidos pelo corpo.
+-  O SNC integra as informações provenientes do SNP e determina as respostas.
+-  
