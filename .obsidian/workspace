@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Xenófanes de Colofon.md",
-            "mode": "source"
+            "file": "_notes/Aprendendo Alemão.md",
+            "mode": "preview"
           }
         }
       }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "62005c692665597e",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Xenófanes de Colofon.md",
+                "file": "_notes/Aprendendo Alemão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Xenófanes de Colofon.md"
+                "file": "_notes/Aprendendo Alemão.md"
               }
             }
           }
@@ -113,15 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/Aprendendo Alemão.md",
+    "_notes/07-12-2020.md",
+    "templates/template-diario.md",
+    "templates/template-padrão.md",
+    "templates/Untitled.md",
     "_notes/Xenófanes de Colofon.md",
     "_notes/William Wordsworth.md",
     "_notes/Werner Gitt.md",
     "_notes/Tutoriais.md",
-    "_notes/Truques - Ubuntu.md",
-    "_notes/Tipos de Dor.md",
-    "_notes/Theodore Dalrympe.md",
-    "_notes/The Prelude.md",
-    "_notes/Templates.md",
-    "_notes/Teeteto.md"
+    "_notes/Truques - Ubuntu.md"
   ]
 }

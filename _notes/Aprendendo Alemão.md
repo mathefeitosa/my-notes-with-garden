@@ -171,3 +171,94 @@ season: summer
 -  ß (eszett or scharfes S)
 	-  der fuß (pé)
 	-  groß (grande)
+
+# Pronomes Nominativos
+Um pronome é uma palavra que substitui um substantivo (como "ela" substitui "a mulher"), ou que acompanha o substantivo, dando-lhe uma qualidade ("esta mulher"). Quando substituem ou acompanham um sujeito ou um predicativo do sujeito, eles se governam pelo caso nominativo. Por exemplo, em
+
+Er ist mein Hund. (Ele é o meu cachorro.)
+
+tanto Er (ele) como mein (meu) estão no caso nominativo.
+
+## Pronomes pessoais
+No caso nominativo, os pronomes pessoais são as pessoas gramaticais que já conhecemos:
+
+Alemão	|	Português
+--- | ---
+ich	|	eu
+du	|	tu/você [informal]
+er	|	ele
+sie	|	ela
+es	|	ele/ela
+wir	|	nós
+ihr	|	vocês [informal]
+sie	|	eles/elas
+Sie*	|	tu/você/vocês [formal]
+
+\*  Em alemão, usa-se muito o tratamento formal com pessoas que não são próximas. O pronome é o mesmo tanto para o singular quanto para o plural e deve sempre começar com letra maiúscula.
+
+Em português é muito comum omitir o sujeito quando é um pronome pessoal, já que o verbo geralmente indica de que pessoa se trata:
+
+- Eu sou bonita ---> Sou bonita.
+- Nós encontramos uma solução. ---> Encontramos uma solução.
+
+Em geral, em alemão não é correto omitir os pronomes pessoais, e uma oração em alemão precisa (praticamente) sempre de um sujeito explícito para ser correta.
+
+
+
+## Pronomes possessivos
+Pronomes possessivos indicam a quem ou a que algo pertence. Em alemão, eles recebem um sufixo que se refere ao gênero da pessoa/coisa possuída.
+
+Pessoa	|	Masculino	|	Feminino	|	Neutro	|	Plural
+--- 	| --- 	| ---	| ---	| ---
+ich	|	mein Hund	|	meine Katze 	|	mein Haustier	|	meine Hunde, meine Katzen, meine Haustiere
+du	|	dein Hund	|	deine Katze	|	dein Haustier	|	deine Hunde, deine Katzen, deine Haustiere
+er/es	|	sein Hund	|	seine Katze	|	sein Haustier	|	seine Hunde, seine Katzen, seine Haustiere
+sie	|	ihr Hund	|	ihre Katze	|	ihr Haustier	|	ihre Hunde, ihre Katzen, ihre Haustiere
+wir	|	unser Hund	|	unsere Katze	|	unser Haustier	|	unsere Hunde, unsere Katzen, unsere Haustiere
+ihr	|	euer Hund	|	eure Katze	|	euer Haustier	|	eure Hunde, eure Katzen, eure Haustiere
+sie	|	ihr Hund	|	ihre Katze	|	ihr Haustier	|	ihre Hunde, ihre Katzen, ihre Haustiere
+Sie	|	Ihr Hund	|	Ihre Katze	|	Ihr Haustier	|	Ihre Hunde, Ihre Katzen, Ihre Haustiere
+
+## Pronomes interrogativos
+São os pronomes usados para fazer perguntas. Nesta lição vemos o pronome "welch":
+
+- Welches Kind? (Qual criança?)
+- Welche Frau? (Qual mulher?)
+- Welcher Mann? (Qual homem?)
+
+## Pronomes demonstrativos
+Os pronomes demonstrativos (por exemplo: este, esta, isto) indicam exatamente do que ou de quem estamos falando, ainda com mais força do que o artigo definido. Em alemão, como em português, um pronome demonstrativo tem um sufixo que depende do gênero da palavra a que ele se refere. Felizmente, o sufixo é semelhante ao do artigo definido:
+
+Com artigo definido |	Com pronome demonstrativo
+--- | ---
+der Mann (o homem) |	dieser Mann (este homem)
+die Frau (a mulhar) |	diese Frau (esta mulher)
+das Kind (a criança) |	dieses Kind (esta criança)
+die Frauen, die Kinder, die Männer (as mulheres, as crianças, os homens)	|	diese Frauen, diese Kinder, diese Männer (estas mulheres, estas crianças, estes homens)
+
+## das
+Além de ser o artigo definido neutro, das também é um pronome demonstrativo. Nesta lição, vemos como das pode ser utilizado significando isto:
+
+- Das schmeckt gut! (Isto é gostoso!)
+- Das ist billig. (Isto é barato.)
+
+## Pronomes indefinidos
+Pronomes indefinidos (por exemplo: alguns, cada, todas) indicam que aquele ou aquilo a que nos referimos não é conhecido ou é genérico ou indeterminado.
+
+- je**der** Mann (cada homem)
+- jed**e** Frau (cada mulher)
+- jed**es** Kind (cada criança)
+- all**e** Männer, all**e** Frauen, all**e** Kinder (todos homens, todas mulheres, todas crianças)
+
+## man
+Em português, quando queremos dizer algo sem explicitar o sujeito, utilizamos construções como:
+
+- Roubaram a minha bicicleta!
+- Dizem que ele é uma boa pessoa.
+- Precisa-se de mais médicos no interior.
+
+Como em alemão a oração precisa de um sujeito, o pronome "man" deve ser utilizado quando dizemos algo sobre um sujeito indeterminado:
+
+- Man trinkt viel Bier in Deutschland. (Tomam muita cerveja na Alemanha.)
+- Man spricht Portugiesisch in Brasilien. (Fala-se português no Brasil.)
+- Man lernt Deutsch schnell. (Aprende-se alemão rápido.)
