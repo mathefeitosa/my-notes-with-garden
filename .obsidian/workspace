@@ -4,21 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "79b08bfbbe2e2fbf",
-        "type": "leaf",
-        "dimension": 23.809523809523807,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/Conteúdos - Medcel.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "8be2fe3660a95c3a",
         "type": "leaf",
-        "dimension": 76.19047619047619,
         "active": true,
         "state": {
           "type": "markdown",
