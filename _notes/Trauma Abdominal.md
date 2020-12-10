@@ -17,7 +17,7 @@ season: automn
 		- Pelve
 	- Exames que auxiliam encontrar a origem do sangramento
 		- FAST
-			- É usado Identificação de líquidos 
+			- É usado para a  identificação de líquidos na cavidade abdominal através de USG.
 		- Lavado peritoneal
 			- Contraindicações absolutas
 				- Laparotomia já indicada
@@ -34,4 +34,4 @@ season: automn
 				- Amilase > 175 mg/dL
 		- Raio-x
 			- Tórax AP
-	
+			- Pelve
