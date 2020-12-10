@@ -17,7 +17,7 @@ season: summer
 - [ ] Queimaduras
 - [ ] Choque
 - [ ] Lesões cervicais
-- [ ] Trauma abdominal
+- [ ] [Trauma Abdominal](Trauma%20Abdominal.md)
 - [ ] Trauma vascular
 - [ ] Trauma cranioencefálico
 - [ ] Trauma da transição toracoalbdominal

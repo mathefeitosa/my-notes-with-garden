@@ -6,12 +6,25 @@
       {
         "id": "79b08bfbbe2e2fbf",
         "type": "leaf",
+        "dimension": 23.809523809523807,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Conteúdos - Medcel.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "8be2fe3660a95c3a",
+        "type": "leaf",
+        "dimension": 76.19047619047619,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Truques - Ubuntu.md",
-            "mode": "preview"
+            "file": "_notes/Trauma Abdominal.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Truques - Ubuntu.md",
+                "file": "_notes/Trauma Abdominal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Truques - Ubuntu.md"
+                "file": "_notes/Trauma Abdominal.md"
               }
             }
           }
@@ -116,15 +129,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/Truques - Ubuntu.md",
+    "_notes/Trauma Abdominal.md",
     "_notes/Conteúdos - Medcel.md",
+    "_notes/Truques - Ubuntu.md",
     "_notes/07-12-2020.md",
     "_notes/08-12-2020.md",
     "_notes/Leitura do Silvertorn - Fisiologia.md",
     "_notes/Leitura de Sherlock Holmes.md",
     "_notes/Configuração - Espanso.md",
     "templates/template-diario.md",
-    "templates/template-pessoa.md",
-    "templates/template-palavra.md"
+    "templates/template-pessoa.md"
   ]
 }
