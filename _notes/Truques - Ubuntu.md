@@ -30,6 +30,12 @@ $ amixer -q set Master 5%+ unmute
 $ amixer -q set Master 5%- unmute
 ```
 
+- Usando o pactl e para todas as saídas
+```bash
+$ pactl set-sink-volume @DEFAULT_SINK@ -5%
+$ pactl set-sink-volume @DEFAULT_SINK@ +5%
+```
+
 # Fazer o audio trocar automaticamente para os fones
 ## Forma 1
 - Executar esse comando que carrega o módulo do pulse:
