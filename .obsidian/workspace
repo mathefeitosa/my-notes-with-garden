@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "973e28a75801bd0b",
+        "id": "79b08bfbbe2e2fbf",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/07-12-2020.md",
+            "file": "_notes/Conteúdos - Medcel.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/07-12-2020.md",
+                "file": "_notes/Conteúdos - Medcel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           },
           {
@@ -101,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/07-12-2020.md"
+                "file": "_notes/Conteúdos - Medcel.md"
               }
             }
           }
@@ -114,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/Conteúdos - Medcel.md",
+    "_notes/Truques - Ubuntu.md",
     "_notes/07-12-2020.md",
+    "_notes/08-12-2020.md",
     "_notes/Leitura do Silvertorn - Fisiologia.md",
     "_notes/Leitura de Sherlock Holmes.md",
     "_notes/Configuração - Espanso.md",
     "templates/template-diario.md",
     "templates/template-pessoa.md",
-    "templates/template-palavra.md",
-    "templates/template-padrão.md",
-    "templates/template-livro.md",
-    "templates/template-ano.md"
+    "templates/template-palavra.md"
   ]
 }
