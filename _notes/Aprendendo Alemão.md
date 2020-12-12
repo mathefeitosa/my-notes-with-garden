@@ -506,3 +506,63 @@ Em alemão, estas palavras normalmente assumem um outro significado quando acomp
 *   Vater: Vati, Papa
 *   Großvater: Opa
 *   Großmutter: Oma
+
+## Pronomes Acusativos
+A maioria dos pronomes em alemão se declinam em um dos quatro casos que existem na língua. O caso nominativo já foi visto, e agora nos interessa o caso acusativo, que é usado quando um pronome é usado como objeto acusativo/direto.
+
+### Pronomes pessoais
+Em português (como em alemão), um pronome muda quando é usado como objeto direto:
+
+*   João vê um amigo e chama o amigo. -> João vê um amigo e **o** chama.
+
+Quem executa a ação é João, o sujeito, e quem recebe a ação é **o amigo**, o objeto. Note que quando "o amigo" é substituído por um pronome, este pronome não é **ele** (chamado em português "pronome do caso reto") e sim **o** (chamado em português "pronome oblíquo"). Da mesma forma, no alemão, o pronome utilizado para quem recebe a ação não fica no caso nominativo e sim no acusativo.
+
+|Caso reto em português|Nominativo|Acusativo|Caso oblíquo em português|
+|--- |--- |--- |--- |
+|eu|ich|mich|me|
+|tu/você|du|dich|te/o/a|
+|ele|er|ihn|o|
+|ela|sie|sie|a|
+|ele/ela|es|es|o/a|
+|você (formal)|Sie|Sie|o/a|
+|nós|wir|uns|nos|
+|vocês (informal)|ihr|euch|os/as|
+|eles/elas|sie|sie|os/as|
+|vocês (formal)|Sie|Sie|os/as|
+
+Note que algumas formas são iguais no caso nominativo e no caso acusativo.
+Aqui estão as formas para algumas outras categorias de pronomes.
+
+### Pronomes possessivos
+Note que o sufixo para o caso acusativo é sempre igual (ufa!) e, em particular, o gênero neutro não tem sufixo.
+
+|Pessoa|masculino|feminino|neutro|plural|
+|--- |--- |--- |--- |--- |
+|ich|meinen|meine|mein|meine|
+|du|deinen|deine|dein|deine|
+|er/es|seinen|seine|sein|seine|
+|sie|ihren|ihre|ihr|ihre|
+|wir|unseren|unsere|unser|unsere|
+|ihr|euren|eure|euer|eure|
+|sie (eles/elas)|ihren|ihre|ihr|ihre|
+|Sie|Ihren|Ihre|Ihr|Ihre|
+
+
+### Pronomes interrogativos
+*   Welchen Mann?
+*   Welche Frau?
+*   Welches Kind?
+*   Welche Männer? Welche Frauen? Welche Kinder?
+
+### Pronomes demonstrativos
+
+*   Diesen Mann
+*   Diese Frau
+*   Dieses Kind
+*   Diese Männer, diese Frauen, diese Kinder
+
+### Pronomes indefinidos
+*   Jeden Mann
+*   Jede Frau
+*   Jedes Kind
+*   Alle Männer, alle Frauen, alle Kinder
