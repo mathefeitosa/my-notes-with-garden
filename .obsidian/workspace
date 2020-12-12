@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "533ede3c2e8a85d0",
-        "type": "split",
-        "children": [
-          {
-            "id": "8be2fe3660a95c3a",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Trauma Abdominal.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "003a3f1c6df1e0b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Lavado Peritoneal.md",
-                "mode": "preview"
-              }
-            }
+        "id": "8be2fe3660a95c3a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Aprendendo Alemão.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Trauma Abdominal.md",
+                "file": "_notes/Aprendendo Alemão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Trauma Abdominal.md"
+                "file": "_notes/Aprendendo Alemão.md"
               }
             }
           }
@@ -130,10 +112,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 185,
-    "collapsed": true
+    "width": 185
   },
   "lastOpenFiles": [
+    "_notes/Aprendendo Alemão.md",
+    "_notes/Tales de Mileto.md",
     "_notes/Trauma Abdominal.md",
     "_notes/Lavado Peritoneal.md",
     "_notes/FAST.md",
@@ -141,8 +124,6 @@
     "_notes/Truques - Ubuntu.md",
     "_notes/07-12-2020.md",
     "_notes/08-12-2020.md",
-    "_notes/Leitura do Silvertorn - Fisiologia.md",
-    "_notes/Leitura de Sherlock Holmes.md",
-    "_notes/Configuração - Espanso.md"
+    "_notes/Leitura do Silvertorn - Fisiologia.md"
   ]
 }
