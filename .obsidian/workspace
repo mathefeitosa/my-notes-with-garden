@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8be2fe3660a95c3a",
+        "id": "417a247b9e8ef325",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Aprendendo Alemão.md",
+            "file": "_notes/Anatomia.md",
             "mode": "source"
           }
         }
@@ -71,6 +71,7 @@
       {
         "id": "1f2a3dbc89f15125",
         "type": "tabs",
+        "dimension": 61.22448979591836,
         "children": [
           {
             "id": "3e13f5a03ef7f292",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Aprendendo Alemão.md",
+                "file": "_notes/Anatomia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,18 +104,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Aprendendo Alemão.md"
+                "file": "_notes/Anatomia.md"
               }
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "95925167554fbdb6",
+        "type": "tabs",
+        "dimension": 38.775510204081634,
+        "children": [
+          {
+            "id": "8be2fe3660a95c3a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 185
+    "width": 239
   },
   "lastOpenFiles": [
+    "_notes/Anatomia.md",
     "_notes/Aprendendo Alemão.md",
     "_notes/Tales de Mileto.md",
     "_notes/Trauma Abdominal.md",
@@ -123,7 +140,6 @@
     "_notes/Conteúdos - Medcel.md",
     "_notes/Truques - Ubuntu.md",
     "_notes/07-12-2020.md",
-    "_notes/08-12-2020.md",
-    "_notes/Leitura do Silvertorn - Fisiologia.md"
+    "_notes/08-12-2020.md"
   ]
 }
