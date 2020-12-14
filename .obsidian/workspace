@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Truques - Ubuntu.md",
-            "mode": "preview"
+            "file": "_notes/Conteúdos - Medcel.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Truques - Ubuntu.md",
+                "file": "_notes/Conteúdos - Medcel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Truques - Ubuntu.md"
+                "file": "_notes/Conteúdos - Medcel.md"
               }
             }
           }
@@ -116,8 +116,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/Truques - Ubuntu.md",
     "_notes/Conteúdos - Medcel.md",
+    "_notes/Truques - Ubuntu.md",
     "_notes/07-12-2020.md",
     "_notes/08-12-2020.md",
     "_notes/Leitura do Silvertorn - Fisiologia.md",
