@@ -4,13 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "79b08bfbbe2e2fbf",
+        "id": "417a247b9e8ef325",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "_notes/Conteúdos - Medcel.md",
+=======
+            "file": "_notes/Anatomia.md",
+>>>>>>> 9d263108f02e00b3355c6e0a8734d7a493acaf9f
             "mode": "source"
           }
         }
@@ -71,6 +75,7 @@
       {
         "id": "1f2a3dbc89f15125",
         "type": "tabs",
+        "dimension": 61.22448979591836,
         "children": [
           {
             "id": "3e13f5a03ef7f292",
@@ -78,7 +83,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "_notes/Conteúdos - Medcel.md",
+=======
+                "file": "_notes/Anatomia.md",
+>>>>>>> 9d263108f02e00b3355c6e0a8734d7a493acaf9f
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,28 +112,49 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "_notes/Conteúdos - Medcel.md"
+=======
+                "file": "_notes/Anatomia.md"
+>>>>>>> 9d263108f02e00b3355c6e0a8734d7a493acaf9f
               }
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "95925167554fbdb6",
+        "type": "tabs",
+        "dimension": 38.775510204081634,
+        "children": [
+          {
+            "id": "8be2fe3660a95c3a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 185,
-    "collapsed": true
+    "width": 239
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "_notes/Anatomia.md",
+    "_notes/Aprendendo Alemão.md",
+    "_notes/Tales de Mileto.md",
+    "_notes/Trauma Abdominal.md",
+    "_notes/Lavado Peritoneal.md",
+    "_notes/FAST.md",
+>>>>>>> 9d263108f02e00b3355c6e0a8734d7a493acaf9f
     "_notes/Conteúdos - Medcel.md",
     "_notes/Truques - Ubuntu.md",
     "_notes/07-12-2020.md",
-    "_notes/08-12-2020.md",
-    "_notes/Leitura do Silvertorn - Fisiologia.md",
-    "_notes/Leitura de Sherlock Holmes.md",
-    "_notes/Configuração - Espanso.md",
-    "templates/template-diario.md",
-    "templates/template-pessoa.md",
-    "templates/template-palavra.md"
+    "_notes/08-12-2020.md"
   ]
 }
