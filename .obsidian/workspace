@@ -4,13 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9c479ba2009467e3",
+        "id": "03b9c86a5055cffa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "How the Immune System Works.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8e8a85fa9699c1c2",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "attachments/How the Immune System Works.pdf"
           }
         }
       }
@@ -60,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 178.5
   },
   "right": {
     "id": "910df9441db4d391",
@@ -127,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c479ba2009467e3",
+  "active": "03b9c86a5055cffa",
   "lastOpenFiles": [
     "How the Immune System Works.md",
     "attachments/How the Immune System Works.pdf",
+    "Excalidraw/Drawing 2021-06-10 14.40.53.excalidraw",
     "notes/Untitled.md",
     "notes/07-12-2020.md",
     "notes/Aprendendo Python.md",
     "notes/Aprendendo Latim.md",
     "notes/Aprendendo Esperanto.md",
     "notes/Aprendendo Alemão.md",
-    "notes/Apendicite.md",
-    "notes/The Prelude.md"
+    "notes/Apendicite.md"
   ]
 }

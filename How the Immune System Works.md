@@ -1,62 +1,9 @@
 ---
-
+title: How the Immune System Works
+tags: [immunology]
 ---
 
-#### How the Immune 
-
-#### System Works 
-
----
-
-I dedicate this book to my sweetheart, my best friend, and my wife: Vicki Sompayrac. 
-
----
-
-# How the Immune 
-
-# System Works 
-
-## FOURTH EDITION 
-
-## Lauren Sompayrac, PhD 
-
- A John Wiley & Sons, Ltd., Publication 
-
----
-
-This edition first published 2012 © 2012 by John Wiley & Sons, Ltd. 
-
-Wiley-Blackwell is an imprint of John Wiley & Sons, formed by the merger of Wiley’s global Scientific, Technical and Medical business with Blackwell Publishing. 
-
-_Registered office:_ John Wiley & Sons, Ltd, The Atrium, Southern Gate, Chichester, West Sussex, PO19 8SQ, UK 
-
-_Editorial offices:_ 9600 Garsington Road, Oxford, OX4 2DQ, UK The Atrium, Southern Gate, Chichester, West Sussex, PO19 8SQ, UK 1 11 River Street, Hoboken, NJ 07030-5774, USA 
-
-For details of our global editorial offices, for customer services and for information about how to apply for permission to reuse the copyright material in this book please see our website at [http://www.wiley.com/wiley-blackwell.](http://www.wiley.com/wiley-blackwell.) 
-
-The right of the author to be identified as the author of this work has been asserted in accordance with the UK Copyright, Designs and Patents Act 1988. 
-
-All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, except as permitted by the UK Copyright, Designs and Patents Act 1988, without the prior permission of the publisher. 
-
-Designations used by companies to distinguish their products are often claimed as trademarks. All brand names and product names used in this book are trade names, service marks, trademarks or registered trademarks of their respective owners. The publisher is not associated with any product or vendor mentioned in this book. This publication is designed to provide accurate and authoritative information in regard to the subject matter covered. It is sold on the understanding that the publisher is not engaged in rendering professional services. If professional advice or other expert assistance is required, the services of a competent professional should be sought. 
-
-First published 1999 Second edition 2003 Third edition 2008 Fourth edition 2012 
-
-Cover image and Figure 1 used with permission from Lennart Nilsson photography / Boehringer Ingelheim / SCANPIX. 
-
-_Library of Congress Cataloging-in-Publication Data_ Sompayrac, Lauren. the immune system works / Lauren Sompayrac. – 4th ed.How cm.p. Includes bibliographical references and index. ISBN 978-0-470-65729-4 (pbk. : alk. paper) 1. Immune system. 
-
-2. Immunity. I. Title. [DNLM: 1. Immune System–physiology. 2. Immune System–anatomy & histology. 
-
-3.^ Immune System–physiopathology.^ 4.^ Immunity–physiology. QW 504 S697h 2012] QR181.S65 2012 616.07'9–dc23 2011024775 
-
-A catalogue record for this book is available from the British Library. 
-
-Set in 9.5/13 pt Palatino by Toppan Best-set Premedia Limited 
-
-1 2012 
-
----
+# How the Immune System Works 
 
 ## Contents 
 
@@ -78,12 +25,6 @@ The Anytime, Anywhere Textbook, ix
 
 **LECTURE 6** T Cells at Work, 60 Once they have been activated, helper T cells orchestrate the immune response, and killer T cells destroy infected cells. 
 
- v 
-
----
-
-vi **Contents** 
-
 **LECTURE 7** Secondary Lymphoid Organs and Lymphocyte Trafficking, 70 B and T lymphocytes travel through secondary lymphoid organs looking for the invaders they can defend against. Once activated, B and T cells are dispatched to those areas of the body in which they can be most useful. 
 
 **LECTURE 8** Restraining the Immune System, 81 The powerful weapons of the immune system must be restrained lest they become “overexuberant.” In addition, once an invader has been defeated, the immune system must be “reset” to prepare for future attacks. 
@@ -102,20 +43,6 @@ vi **Contents**
 
 **LECTURE 15** A Critique of the Immune System, 128 The immune system has many strengths – and a few weaknesses. 
 
-Glossary, 133 
-
-Index, 136 
-
----
-
- vii 
-
-## Acknowledgments 
-
-I would like to thank the following people, whose critical comments on the earlier editions were most helpful: Drs. Mark Dubin, Linda Clayton, Dan Tenen, Jim Cook, Tom Mitchell, Lanny Rosenwasser, and Eric Martz. Thanks also go to Diane Lorenz, who illustrated the first 
-
- and second editions, and whose wonderful artwork can still be found in this book. Finally, I wish to thank Vicki Sompayrac, whose wise suggestions helped make this book more readable, and whose editing was invaluable in preparing the final manuscript. 
-
 ---
 
 ## How to Use This Book 
@@ -124,49 +51,18 @@ I wrote _How the Immune System Works_ because I couldn’t find a book that woul
 
  bother with the Thought Questions at the end of each lecture. Just rip through them. Then, once you have a “feel” for the system, go back and spend a bit more time with these same ten lectures to get a clearer understanding of the “hows and whys.” In Lectures 11–14, I discuss the AIDS virus, vaccines, allergies, autoimmune diseases, and cancer. These lectures will let you “practice” what you have learned in the earlier lectures by examining real-world examples of the immune system at work. And Lecture 15 – A Critique of the Immune System – will help you put in full perspective just how wonderful the immune defense really is. So after you have gone through Lectures 1–10 twice, I’d suggest you read these last five lectures. When you do, I think you’ll be amazed by how much you now understand about the immune system. In some settings, How the Immune System Works will serve as the main text for the immunology section of a larger course. For a semester-long undergraduate or graduate immunology course, your professor may use this book as a companion to a comprehensive textbook. In this situation, reviewing the appropriate lecture in How the Immune System Works as your course proceeds will help you keep the big picture in focus as the details are filled in. It’s really easy to get lost in the details. No matter how your professor may choose to use this book, you should keep one important point in mind: I didn’t write How the Immune System Works for your professor. This book is for you! 
 
-viii 
-
 ---
-
-## The Anytime, Anywhere 
-
-## Textbook 
-
- ix 
-
-For the first time, your textbook comes with free access to a **Wiley Desktop Edition** – a digital, interactive version of this textbook which you own as soon as you download it. 
-
-Your Wiley Desktop Edition allows you to: **Search:** Save time by finding terms and topics instantly in your book, your notes, even your whole library (once you’ve downloaded more textbooks) **Note and Highlight:** Colour code, highlight and make digital notes right in the text so you can find them quickly and easily **Organize:** Keep books, notes and class materials organized in folders inside the application **Share:** Exchange notes and highlights with friends, classmates and study groups **Upgrade:** Your textbook can be transferred when you need to change or upgrade computers 
-
-To access your Wiley Desktop Edition, find the redemption code on the inside front cover of this book and carefully scratch away the top coating of the label. Visit **[http://www.vitalsource.com/software/bookshelf/downloads](http://www.vitalsource.com/software/bookshelf/downloads)** to download the Bookshelf application to your computer, laptop or mobile device. Open the Bookshelf application on your computer and register for an account. Follow the registration process and enter your redemption code to download your digital book. 
-
-**CourseSmart** gives your students instant access (via computer or mobile device) to this Wiley-Blackwell eTextbook and its extra electronic functionality, at 40% off the recommended retail print price. See all the benefits at **[http://www.cours-](http://www.cours-) esmart.com/students**. It also offers you an immediate, efficient, and environmentally-friendly way to review this textbook for your course. For more information visit **[http://www.coursesmart.com/instructors](http://www.coursesmart.com/instructors)**. With CourseSmart, you can create lecture notes quickly with copy and paste, and share pages and notes with your students. Access your Wiley CourseSmart digital textbook from your computer or mobile device instantly for evaluation, class preparation, and as a teaching tool in the classroom. Simply sign in at **[http://instructors.coursesmart.com/bookshelf](http://instructors.coursesmart.com/bookshelf)** to download your Bookshelf and get started. To request your desk copy, hit ‘Request Online Copy’ on your search results or book product page. 
-
----
-
----
-
-_How the Immune System Works_ , Fourth Edition. Lauren Sompayrac. © 2012 John Wiley & Sons, Ltd. Published 2012 by John Wiley & Sons, Ltd. 
-
-Immunology is a difficult subject to study for several reasons. First, there are lots of details, and sometimes these details get in the way of understanding the concepts. To get around this problem, we’re going to concentrate on the big picture. It will be easy for you to find the details somewhere else. A second difficulty in learning immunology is that there is an exception to every rule. Immunologists love these exceptions, because they give clues as to how the immune system functions. But for now, we’re just going to learn the rules. Oh, sure, we’ll come upon exceptions from time to time, but we won’t dwell on them. Our goal is to examine the immune system, stripped to its essence. The third difficulty in studying immunology is that our knowledge of the immune system is still evolving. As you’ll see, there are many unanswered questions, and some of the things that seem true today will be proven false tomorrow. I’ll try to give you a feeling for the way things stand now, and from time to time I’ll discuss what immunologists speculate may be true. But keep in mind that although I’ll try to be straight with you, some of the things I’ll tell you will change in the future (maybe even by the time you read this!). I think the main reason immunology is such a tough subject, however, is that the immune system is a “team effort” that involves many different players interacting with each other. Imagine you’re watching a football game on TV, and the camera is isolated on one player, say, the tight end. You see him run at full speed down the field, and then stop. It doesn’t seem to make any sense. Later, however, you see the same play on the big screen, and now you understand: that tight end took two defenders with him down the field, leaving the running back uncovered to catch the pass and run for a touchdown. The immune system is just like a football team. It’s a network of players who cooperate to get things done, and just 
-
-### LECTURE 1 
-
-## An Overview 
-
- looking at one player doesn’t make much sense. You need an overall view. That’s the purpose of this first lecture, which you might call “turbo immunology.” Here, I’m going to take you on a quick tour of the immune system, so you can get a feeling for how it all fits together. Then in the next lectures, we’ll go back and take a closer look at the players and their interactions. 
+## LECTURE 1 
+### An Overview 
+Immunology is a difficult subject to study for several reasons. First, there are lots of details, and sometimes these details get in the way of understanding the concepts. To get around this problem, we’re going to concentrate on the big picture. It will be easy for you to find the details somewhere else. A second difficulty in learning immunology is that there is an exception to every rule. Immunologists love these exceptions, because they give clues as to how the immune system functions. But for now, we’re just going to learn the rules. Oh, sure, we’ll come upon exceptions from time to time, but we won’t dwell on them. Our goal is to examine the immune system, stripped to its essence. The third difficulty in studying immunology is that our knowledge of the immune system is still evolving. As you’ll see, there are many unanswered questions, and some of the things that seem true today will be proven false tomorrow. I’ll try to give you a feeling for the way things stand now, and from time to time I’ll discuss what immunologists speculate may be true. But keep in mind that although I’ll try to be straight with you, some of the things I’ll tell you will change in the future (maybe even by the time you read this!). I think the main reason immunology is such a tough subject, however, is that the immune system is a “team effort” that involves many different players interacting with each other. Imagine you’re watching a football game on TV, and the camera is isolated on one player, say, the tight end. You see him run at full speed down the field, and then stop. It doesn’t seem to make any sense. Later, however, you see the same play on the big screen, and now you understand: that tight end took two defenders with him down the field, leaving the running back uncovered to catch the pass and run for a touchdown. The immune system is just like a football team. It’s a network of players who cooperate to get things done, and just looking at one player doesn’t make much sense. You need an overall view. That’s the purpose of this first lecture, which you might call “turbo immunology.” Here, I’m going to take you on a quick tour of the immune system, so you can get a feeling for how it all fits together. Then in the next lectures, we’ll go back and take a closer look at the players and their interactions. 
 
 ###### PHYSICAL BARRIERS 
 
- Our first line of defense against invaders consists of physical barriers, and to cause real trouble, viruses, bacteria, parasites, and fungi must first penetrate these shields. Although we tend to think of our skin as the main barrier, the area covered by our skin is only about two square meters. In contrast, the area covered by the mucous membranes that line our digestive, respiratory, and reproductive tracts measures about 400 square meters 
-
-- an area about as big as two tennis courts. The main point here is that there is a large perimeter which must be defended. 
+ Our first line of defense against invaders consists of physical barriers, and to cause real trouble, viruses, bacteria, parasites, and fungi must first penetrate these shields. Although we tend to think of our skin as the main barrier, the area covered by our skin is only about two square meters. In contrast, the area covered by the mucous membranes that line our digestive, respiratory, and reproductive tracts measures about 400 square meters ─ an area about as big as two tennis courts. The main point here is that there is a large perimeter which must be defended. 
 
 ###### THE INNATE IMMUNE SYSTEM 
 
  Any invader that breaches the physical barrier of skin or mucosa is greeted by the innate immune system – our second line of defense. Immunologists call this system “innate” because it is a defense that all animals just naturally seem to have. Indeed, some of the weapons of the innate immune system have been around for more than 500 million years. Let me give you an example of how this amazing innate system works. Imagine you are getting out of your hot tub, and as you step onto the deck, you get a large splinter in your big 
-
- 1 
 
 ---
 
