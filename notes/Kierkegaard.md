@@ -1,0 +1,4 @@
+---
+title: Kierkegaard
+tags: pessoa
+---

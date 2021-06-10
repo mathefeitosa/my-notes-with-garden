@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "47e8b598659fde8f",
+        "id": "9c479ba2009467e3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "How the Immune System Works.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How the Immune System Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "How the Immune System Works.md"
+              }
+            }
+          },
+          {
+            "id": "550ff502a51632cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "How the Immune System Works.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -109,6 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "47e8b598659fde8f",
-  "lastOpenFiles": []
+  "active": "9c479ba2009467e3",
+  "lastOpenFiles": [
+    "How the Immune System Works.md",
+    "attachments/How the Immune System Works.pdf",
+    "notes/Untitled.md",
+    "notes/07-12-2020.md",
+    "notes/Aprendendo Python.md",
+    "notes/Aprendendo Latim.md",
+    "notes/Aprendendo Esperanto.md",
+    "notes/Aprendendo Alemão.md",
+    "notes/Apendicite.md",
+    "notes/The Prelude.md"
+  ]
 }
